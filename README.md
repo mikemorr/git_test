@@ -1,1 +1,2 @@
-# git_test
+Have a nice day :)
+
